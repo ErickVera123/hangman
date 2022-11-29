@@ -1,0 +1,1 @@
+words = ["gato", "perro", "mosca", "oveja", "elefante", "pizza", "hamburguesa", "pasta", "tacos", "sushi", "rock", "pop", "regueton", "cumbia", "salsa"]
